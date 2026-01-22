@@ -140,9 +140,8 @@ PWNED BY PATH TRAVERSAL!
 This proves arbitrary file overwrite vulnerability.
 If you see this, the root-owned file was overwritten!
 ```
-![image](https://img2024.cnblogs.com/blog/3512578/202601/3512578-20260122113729911-294984032.png)
 
-
+![](https://cdn.jsdelivr.net/gh/miffyaa/images@main//images20260122114834938.png)
 ---
 
 ## Vulnerable Code Snippet:
